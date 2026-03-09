@@ -29,4 +29,5 @@ plt.tight_layout()
 plt.savefig('iris_violinplots.png', dpi=150, bbox_inches='tight')
 plt.show()
 
-print("✅ Ambele figuri au fost salvate!")
+
+print(" Ambele figuri au fost salvate!")
